@@ -18,7 +18,7 @@ Analyzed 15+ years of S&P 500 historical data to uncover trends in price, volati
 
 ---
 
-# 🛠 Tools & Libraries
+#  Tools & Libraries
 - **Python 3.x**  
 - **pandas** – Data manipulation  
 - **numpy** – Numerical calculations  
@@ -27,4 +27,4 @@ Analyzed 15+ years of S&P 500 historical data to uncover trends in price, volati
 
 ---
 
-## 🏗 Project Structure
+
